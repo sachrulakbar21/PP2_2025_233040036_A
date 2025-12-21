@@ -11,4 +11,11 @@
         <exec.mainClass>id.ac.unpas.modul05.Modul05</exec.mainClass>
     </properties>
     <name>PP2_2025_233040036_A</name>
+    <dependencies>
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>9.5.0</version>
+        </dependency>
+    </dependencies>
 </project>

@@ -45,7 +45,7 @@ public class ManajemenNilaiSiswaApp extends JFrame {
 
         panel.add(new JLabel("Mata Kuliah:"));
         comboMatkul = new JComboBox<>(new String[]{
-                "PBO", "Basis Data", "Pemrograman I", "Jaringan Komputer"
+                "Matematika Dasar", "Bahasa Indonesia", "Algoritma dan Pemrograman I", "Praktikum Pemograman II"
         });
         panel.add(comboMatkul);
 
